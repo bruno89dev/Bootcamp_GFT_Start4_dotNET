@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\Programação\C#\Bootcamp\bin\Debug\net6.0\Bootcamp.exe
+C:\Users\Pichau\Documents\Programação\C#\Bootcamp\bin\Debug\net6.0\Bootcamp.deps.json
+C:\Users\Pichau\Documents\Programação\C#\Bootcamp\bin\Debug\net6.0\Bootcamp.runtimeconfig.json
+C:\Users\Pichau\Documents\Programação\C#\Bootcamp\bin\Debug\net6.0\Bootcamp.dll
+C:\Users\Pichau\Documents\Programação\C#\Bootcamp\bin\Debug\net6.0\ref\Bootcamp.dll
+C:\Users\Pichau\Documents\Programação\C#\Bootcamp\bin\Debug\net6.0\Bootcamp.pdb
+C:\Users\Pichau\Documents\Programação\C#\Bootcamp\obj\Debug\net6.0\Bootcamp.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Programação\C#\Bootcamp\obj\Debug\net6.0\Bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Programação\C#\Bootcamp\obj\Debug\net6.0\Bootcamp.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Programação\C#\Bootcamp\obj\Debug\net6.0\Bootcamp.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Programação\C#\Bootcamp\obj\Debug\net6.0\Bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Programação\C#\Bootcamp\obj\Debug\net6.0\Bootcamp.dll
+C:\Users\Pichau\Documents\Programação\C#\Bootcamp\obj\Debug\net6.0\ref\Bootcamp.dll
+C:\Users\Pichau\Documents\Programação\C#\Bootcamp\obj\Debug\net6.0\Bootcamp.pdb
+C:\Users\Pichau\Documents\Programação\C#\Bootcamp\obj\Debug\net6.0\Bootcamp.genruntimeconfig.cache
